@@ -1,0 +1,29 @@
+body{
+    margin: 0, auto;
+    font-family: 'Roboto', sans-serif;
+}
+
+.button-main{
+    color: white;
+    border: none;
+    background-color: #0A0A0A;
+    padding: 8px 20px;
+    border-radius: 8px;
+}
+.nav-link {
+   margin-right: 15px;
+}
+
+
+/*Slider Section css*/
+.slider-section{
+    margin-top: 30px;
+    margin-bottom: 90px;
+    background-color: aliceblue;
+}
+.carousel-inner{
+    padding: 30px 70px;
+}
+.carousel-indicators .active{
+    background-color: #FFD019;
+}
