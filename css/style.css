@@ -52,3 +52,33 @@ body{
     border: none;
     box-shadow: 1px 1px 3px lightblue;
 }
+
+/*Category Section css*/
+.categories{
+    margin-bottom: 90px;
+}
+.title-underline{
+    text-align: center;
+    text-decoration: underline;
+    text-decoration-color: #FFD019;
+    text-decoration-thickness: 5px; 
+    margin-bottom: 30px;   
+}
+
+.category-icons{
+    box-shadow: 3px 3px 8px lightgray;
+    padding: 10px 20px;
+    text-align: center;
+    border-radius: 8px;
+}
+.cat-2{
+    margin-bottom: 30px;
+}
+.category-image img{
+    width: 100%;
+}
+
+.footer-item{
+    text-align: center;
+    margin-bottom: 3px;
+}
