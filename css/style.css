@@ -14,6 +14,16 @@ body{
    margin-right: 15px;
 }
 
+.see-all-btn a{
+    text-decoration: none;
+    color: #FFD019;
+    font-weight: 700;
+}
+
+.item-price-color{
+    color: #0A0A0A;
+    font-weight: 700;
+}
 
 /*Slider Section css*/
 .slider-section{
@@ -26,4 +36,19 @@ body{
 }
 .carousel-indicators .active{
     background-color: #FFD019;
+}
+
+/*Smart Phone section css*/
+.smart-phone-section{
+    margin-bottom: 90px;
+}
+.smart-phone-section .card-body{
+    text-align: center;
+}
+.smart-phone-section .card-img-top{
+    padding: 30px 30px;
+}
+.smart-phone-section .card{
+    border: none;
+    box-shadow: 1px 1px 3px lightblue;
 }
